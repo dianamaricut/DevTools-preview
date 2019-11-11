@@ -1,2 +1,2 @@
 # DevTools-preview
-Preview blog headline changes with DevTools
+Preview headlines with DevTools
